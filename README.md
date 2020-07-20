@@ -38,13 +38,16 @@ Here is where the bot's permissions are assigned. Make the table look like this:
 
 ![Finished Perm table](https://cdn.discordapp.com/attachments/707320637026336799/734878748226093076/unknown.png)
 This assures the bot has the correct permissions to perform all the tasks required. In the next step python will be installed to run the bot. 
-[Python Download](https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe)
-**Add Python to path**
+# Token
 
-Open cmd and paste: `py -3 -m pip install -U discord.py`
+- [Python Download](https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe)
 
-Open a text editor and paste the token from before in place of `token` on line 41
-`client.run('token')`
+- **Add Python to path**
+
+- Open cmd and paste: `py -3 -m pip install -U discord.py` This installs discord.py
+
+- Open a text editor and paste the token from before in place of `token` on line 41
+`client.run('token')` in `rolebot.py`
 
 ## Message Creation
 Now Make sure Discord developer mode is enabled on your Discord client. Here is how to do it on pc. 
@@ -55,7 +58,7 @@ Click *User Settings* in the bottom left
 Click Appearance under the **APP SETTINGS** tab 
 ![apperance](https://cdn.discordapp.com/attachments/707320637026336799/734883384475779142/unknown.png) 
 
-Scroll down and 
+Scroll down and locate **
 ## Example
 Here is a simple set up for how to assign roles to emoji.
 |     Description           |Role                          |Emoji                         |
@@ -65,6 +68,7 @@ Here is a simple set up for how to assign roles to emoji.
 |Add role for CitiesSkylines|`CitiesSkylines`|:CitiesSkylines:|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDkwMzI1MCwxNzk2MDYyODgyLC0xMD
-k4NjUyMDI4LDIxMDA4OTI5NzcsLTE2MDIyMjAzMDddfQ==
+eyJoaXN0b3J5IjpbMTc4MjkwNzI3MiwxNzkwOTAzMjUwLDE3OT
+YwNjI4ODIsLTEwOTg2NTIwMjgsMjEwMDg5Mjk3NywtMTYwMjIy
+MDMwN119
 -->
