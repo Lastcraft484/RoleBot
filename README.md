@@ -39,6 +39,9 @@ Here is where the bot's permissions are assigned. Make the table look like this:
 ![Finished Perm table](https://cdn.discordapp.com/attachments/707320637026336799/734878748226093076/unknown.png)
 This assures the bot has the correct permissions to perform all the tasks required. In the next step python will be installed to run the bot. 
 [Python Download](https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe)
+**Add Python to path**
+
+Open cmd and paste this by 
 
 ## Example
 Here is a simple set up for how to assign roles to emoji.
@@ -49,6 +52,6 @@ Here is a simple set up for how to assign roles to emoji.
 |Add role for CitiesSkylines|`CitiesSkylines`|:CitiesSkylines:|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjA2Mjg4MiwtMTA5ODY1MjAyOCwyMT
-AwODkyOTc3LC0xNjAyMjIwMzA3XX0=
+eyJoaXN0b3J5IjpbMTM5MzA1MDE5OCwxNzk2MDYyODgyLC0xMD
+k4NjUyMDI4LDIxMDA4OTI5NzcsLTE2MDIyMjAzMDddfQ==
 -->
