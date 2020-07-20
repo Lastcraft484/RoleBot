@@ -11,10 +11,10 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 |                |Role                          |Emoji                         |
 |----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'DiRTthis fun            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|Add role for DiRT|`DiRT`            |:DiRT:            |
+|Add role for Forza|`Forza`            |:Forza:            |
+|Dashes          |`-- is en-dash, --- is em-dash`|:CitiesSkylines:|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA5NTkzOTNdfQ==
+eyJoaXN0b3J5IjpbLTI4NzgwOTQ0OV19
 -->
