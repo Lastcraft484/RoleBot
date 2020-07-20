@@ -50,9 +50,12 @@ Open a text editor and paste the token from before in place of `token` on line 4
 Now Make sure Discord developer mode is enabled on your Discord client. Here is how to do it on pc. 
 
 Click *User Settings* in the bottom left 
-!(usersettings)[
+![usersettings](https://cdn.discordapp.com/attachments/707320637026336799/734882935026483320/unknown.png)
 
+Click Appearance under the **APP SETTINGS** tab 
+![apperance](https://cdn.discordapp.com/attachments/707320637026336799/734883384475779142/unknown.png) 
 
+Scroll down and 
 ## Example
 Here is a simple set up for how to assign roles to emoji.
 |     Description           |Role                          |Emoji                         |
@@ -62,6 +65,6 @@ Here is a simple set up for how to assign roles to emoji.
 |Add role for CitiesSkylines|`CitiesSkylines`|:CitiesSkylines:|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTMyOTM3NzEsMTc5NjA2Mjg4MiwtMT
-A5ODY1MjAyOCwyMTAwODkyOTc3LC0xNjAyMjIwMzA3XX0=
+eyJoaXN0b3J5IjpbMTc5MDkwMzI1MCwxNzk2MDYyODgyLC0xMD
+k4NjUyMDI4LDIxMDA4OTI5NzcsLTE2MDIyMjAzMDddfQ==
 -->
