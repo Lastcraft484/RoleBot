@@ -1,9 +1,9 @@
 # RoleBot
 
-## Usage 
-Create a bot token and make sure the bot has manage messages.
-The role and emoji that you react with must be named the same.
-Create your message and then copy the message id and put it where my message id is.
+# Bot creation. 
+
+
+
 
 
 ## Example
@@ -15,5 +15,5 @@ Here is a simple set up for how to assign roles to emoji.
 |Add role for CitiesSkylines|`CitiesSkylines`|:CitiesSkylines:|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDIyMjAzMDddfQ==
+eyJoaXN0b3J5IjpbNjMzNTU3OTU0LC0xNjAyMjIwMzA3XX0=
 -->
