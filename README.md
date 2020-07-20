@@ -15,7 +15,7 @@ After a name is entered this page will be brought up.
 
 ![bot page](https://cdn.discordapp.com/attachments/707320637026336799/734871335716651168/unknown.png)
 
-Here is where the application name and icon are changed. **The application** name and icon are not  After that is configured click the bot tab on the left.
+Here is where the application name and icon are changed. **The application name and icon are not the bot name and icon**. After that is configured click the bot tab on the left.
 
 ![Add a bot](https://cdn.discordapp.com/attachments/707320637026336799/734871830061645904/unknown.png)
 
@@ -95,7 +95,7 @@ Here is a simple set up for how to assign roles to emoji.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTMzODEwOCwxMjQwMzI5NjAzLC0zMj
-AyOTQwMjEsMTc5MDkwMzI1MCwxNzk2MDYyODgyLC0xMDk4NjUy
-MDI4LDIxMDA4OTI5NzcsLTE2MDIyMjAzMDddfQ==
+eyJoaXN0b3J5IjpbMzA5Njg0ODY3LDEyNDAzMjk2MDMsLTMyMD
+I5NDAyMSwxNzkwOTAzMjUwLDE3OTYwNjI4ODIsLTEwOTg2NTIw
+MjgsMjEwMDg5Mjk3NywtMTYwMjIyMDMwN119
 -->
