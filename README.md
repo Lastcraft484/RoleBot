@@ -12,7 +12,7 @@ Here is where the application name and icon are changed. **The application name 
 ![Add a bot](https://cdn.discordapp.com/attachments/707320637026336799/734871830061645904/unknown.png)
 Here you will select **Add Bot**
 ![Select Yes](https://cdn.discordapp.com/attachments/707320637026336799/734872232425422919/unknown.png)
-Once **Yes, do it!** is slected 
+Once **Yes, do it!** is selected you will be brought to this page: 
 
 
 
@@ -25,5 +25,6 @@ Here is a simple set up for how to assign roles to emoji.
 |Add role for CitiesSkylines|`CitiesSkylines`|:CitiesSkylines:|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDg5Mjk3NywtMTYwMjIyMDMwN119
+eyJoaXN0b3J5IjpbMTY3NjAyOTgwNywyMTAwODkyOTc3LC0xNj
+AyMjIwMzA3XX0=
 -->
