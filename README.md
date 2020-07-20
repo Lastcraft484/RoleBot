@@ -41,7 +41,10 @@ This assures the bot has the correct permissions to perform all the tasks requir
 [Python Download](https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe)
 **Add Python to path**
 
-Open cmd and paste this by 
+Open cmd and paste: `py -3 -m pip install -U discord.py`
+
+Open a text editor and paste the token from before in place of `TOKEN` on l
+
 
 ## Example
 Here is a simple set up for how to assign roles to emoji.
@@ -52,6 +55,6 @@ Here is a simple set up for how to assign roles to emoji.
 |Add role for CitiesSkylines|`CitiesSkylines`|:CitiesSkylines:|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzA1MDE5OCwxNzk2MDYyODgyLC0xMD
+eyJoaXN0b3J5IjpbMTA2MDQxMDA0MCwxNzk2MDYyODgyLC0xMD
 k4NjUyMDI4LDIxMDA4OTI5NzcsLTE2MDIyMjAzMDddfQ==
 -->
