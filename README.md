@@ -14,7 +14,8 @@ Here you will select **Add Bot**
 ![Select Yes](https://cdn.discordapp.com/attachments/707320637026336799/734872232425422919/unknown.png)
 Once **Yes, do it!** is selected you will be brought to this page:
 ![Bot config](https://cdn.discordapp.com/attachments/707320637026336799/734875049445556335/unknown.png) 
-Here is where the bot name and icon are changed. Below the name there is the token. The token is what the code uses to talk to Discord's servers.
+Here is where the bot name and icon are changed. Below the name there is the token. The token is what the code uses to talk to Discord's servers. Click on *Click to Reveal Token* or 
+
 
 ## Example
 Here is a simple set up for how to assign roles to emoji.
@@ -25,6 +26,6 @@ Here is a simple set up for how to assign roles to emoji.
 |Add role for CitiesSkylines|`CitiesSkylines`|:CitiesSkylines:|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDc4OTY4NSwyMTAwODkyOTc3LC0xNj
-AyMjIwMzA3XX0=
+eyJoaXN0b3J5IjpbLTEwOTg2NTIwMjgsMjEwMDg5Mjk3NywtMT
+YwMjIyMDMwN119
 -->
