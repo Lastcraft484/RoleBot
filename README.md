@@ -71,7 +71,8 @@ To allow this turn off **Add Reactions** and **Use External Emojis** in the sett
 
 Once the message is set up. Click the 3 dots in the top right of the message labeled **more**
 and click **Copy ID**
-
+![copy id](https://cdn.discordapp.com/attachments/707320637026336799/734899515756118056/unknown.png)
+Note this ID somewhere it is needed in the next step.
 
 
 ## Example Emojis and role set up.
@@ -85,7 +86,7 @@ Here is a simple set up for how to assign roles to emoji.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTcyMDQ4NzEsMTc5MDkwMzI1MCwxNz
-k2MDYyODgyLC0xMDk4NjUyMDI4LDIxMDA4OTI5NzcsLTE2MDIy
-MjAzMDddfQ==
+eyJoaXN0b3J5IjpbLTMyMDI5NDAyMSwxNzkwOTAzMjUwLDE3OT
+YwNjI4ODIsLTEwOTg2NTIwMjgsMjEwMDg5Mjk3NywtMTYwMjIy
+MDMwN119
 -->
