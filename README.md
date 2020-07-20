@@ -7,14 +7,13 @@ Create your message and then copy the message id and put it where my message id 
 
 
 ## Example
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |Role                          |Emoji                         |
+Here is a simple set up for how to assign roles to emoji.
+|     Description           |Role                          |Emoji                         |
 |----------------|-------------------------------|-----------------------------|
 |Add role for DiRT|`DiRT`            |:DiRT:            |
 |Add role for Forza|`Forza`            |:Forza:            |
-|Dashes          |`-- is en-dash, --- is em-dash`|:CitiesSkylines:|
+|Add role for CitiesSkylines|`CitiesSkylines`|:CitiesSkylines:|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzgwOTQ0OV19
+eyJoaXN0b3J5IjpbLTE2MDIyMjAzMDddfQ==
 -->
