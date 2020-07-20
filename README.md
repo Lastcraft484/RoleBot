@@ -1,8 +1,7 @@
 # RoleBot
 
 # Bot creation. 
-
-
+First you must create a bot using Discord's [Developer Portal] (
 
 
 
@@ -15,5 +14,6 @@ Here is a simple set up for how to assign roles to emoji.
 |Add role for CitiesSkylines|`CitiesSkylines`|:CitiesSkylines:|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzNTU3OTU0LC0xNjAyMjIwMzA3XX0=
+eyJoaXN0b3J5IjpbLTE0NTIxNzA3MzQsLTE2MDIyMjAzMDddfQ
+==
 -->
