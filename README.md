@@ -82,7 +82,7 @@ and click **Copy ID**
 
 Note this ID somewhere it is needed in the next step.
 
-Open 
+Open rolebot.py in a text editor and locate:
 
 ## Example Emojis and role set up.
 Here is a simple set up for how to assign roles to emoji.
@@ -95,7 +95,7 @@ Here is a simple set up for how to assign roles to emoji.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODEyNDcwMSwxMjQwMzI5NjAzLC0zMj
+eyJoaXN0b3J5IjpbLTM3NTMzODEwOCwxMjQwMzI5NjAzLC0zMj
 AyOTQwMjEsMTc5MDkwMzI1MCwxNzk2MDYyODgyLC0xMDk4NjUy
 MDI4LDIxMDA4OTI5NzcsLTE2MDIyMjAzMDddfQ==
 -->
