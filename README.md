@@ -20,7 +20,8 @@ Here is where the bot name and icon are changed. Below the name there is the tok
 Here, click **bot** in the table below. This will bring up the table blow:
 ![Perms table](https://cdn.discordapp.com/attachments/707320637026336799/734878415827501126/unknown.png)
 Here is where the bot's permissions are assigned. Make the table look like this:
-
+![Finished Perm table](https://cdn.discordapp.com/attachments/707320637026336799/734878748226093076/unknown.png)
+This assures the bot has the correct permissions to perform all the tasks required. In the next step python will be installed to run the bot. 
 ## Example
 Here is a simple set up for how to assign roles to emoji.
 |     Description           |Role                          |Emoji                         |
@@ -30,6 +31,6 @@ Here is a simple set up for how to assign roles to emoji.
 |Add role for CitiesSkylines|`CitiesSkylines`|:CitiesSkylines:|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDU1NzQ0LC0xMDk4NjUyMDI4LDIxMD
-A4OTI5NzcsLTE2MDIyMjAzMDddfQ==
+eyJoaXN0b3J5IjpbMjA0MTA3NTAwNCwtMTA5ODY1MjAyOCwyMT
+AwODkyOTc3LC0xNjAyMjIwMzA3XX0=
 -->
