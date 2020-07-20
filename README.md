@@ -9,6 +9,12 @@ Next choose a name for the bot **(you can change this later)**.
 After a name is entered this page will be brought up.
 ![bot page](https://cdn.discordapp.com/attachments/707320637026336799/734871335716651168/unknown.png)
 Here is where the bot name is changed along with its icon. After that is configured click the bot tab on the left.
+![Add a bot](https://cdn.discordapp.com/attachments/707320637026336799/734871830061645904/unknown.png)
+Here you will select **Add Bot**
+![Select Yes](
+
+
+
 
 ## Example
 Here is a simple set up for how to assign roles to emoji.
@@ -19,5 +25,5 @@ Here is a simple set up for how to assign roles to emoji.
 |Add role for CitiesSkylines|`CitiesSkylines`|:CitiesSkylines:|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzM2Mjk5NSwtMTYwMjIyMDMwN119
+eyJoaXN0b3J5IjpbMTM3NzI4MDg5NiwtMTYwMjIyMDMwN119
 -->
