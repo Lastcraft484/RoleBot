@@ -58,7 +58,9 @@ Click *User Settings* in the bottom left
 Click Appearance under the **APP SETTINGS** tab 
 ![apperance](https://cdn.discordapp.com/attachments/707320637026336799/734883384475779142/unknown.png) 
 
-Scroll down and locate **
+Scroll down and locate **Developer Mode** and flip the toggle.
+![dev mode](https://cdn.discordapp.com/attachments/707320637026336799/734896739605282816/unknown.png)
+This allows to see the 
 ## Example
 Here is a simple set up for how to assign roles to emoji.
 |     Description           |Role                          |Emoji                         |
@@ -68,7 +70,7 @@ Here is a simple set up for how to assign roles to emoji.
 |Add role for CitiesSkylines|`CitiesSkylines`|:CitiesSkylines:|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjkwNzI3MiwxNzkwOTAzMjUwLDE3OT
-YwNjI4ODIsLTEwOTg2NTIwMjgsMjEwMDg5Mjk3NywtMTYwMjIy
-MDMwN119
+eyJoaXN0b3J5IjpbNzY2MzczODMwLDE3OTA5MDMyNTAsMTc5Nj
+A2Mjg4MiwtMTA5ODY1MjAyOCwyMTAwODkyOTc3LC0xNjAyMjIw
+MzA3XX0=
 -->
