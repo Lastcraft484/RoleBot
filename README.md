@@ -67,8 +67,8 @@ Here is an example of a message that uses the role bot.
 ![message](https://cdn.discordapp.com/attachments/707320637026336799/734897516478201916/unknown.png)
 This message works very well because it lets the members know what to do with the message and it shows the members what roles correspond with what emoji. In this example I have reacted to each message with my discord account then disabled adding reactions in the channel permissions. This allows users to react with the emojis that I have added but not choose any more to react with.
 ![perms](https://cdn.discordapp.com/attachments/707320637026336799/734898350452768840/unknown.png)
-To allow this turn off **Add Reactions** and **Use External 
-## Example
+To allow this turn off **Add Reactions** and **Use External Emojis** in the settings for the channel. 
+## Example Emojis and role
 Here is a simple set up for how to assign roles to emoji.
 |     Description           |Role                          |Emoji                         |
 |----------------|-------------------------------|-----------------------------|
@@ -76,8 +76,10 @@ Here is a simple set up for how to assign roles to emoji.
 |Add role for Forza|`Forza`            |:Forza:            |
 |Add role for CitiesSkylines|`CitiesSkylines`|:CitiesSkylines:|
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjAzODA4OCwxNzkwOTAzMjUwLDE3OT
+eyJoaXN0b3J5IjpbLTI2ODIyMzYyMywxNzkwOTAzMjUwLDE3OT
 YwNjI4ODIsLTEwOTg2NTIwMjgsMjEwMDg5Mjk3NywtMTYwMjIy
 MDMwN119
 -->
