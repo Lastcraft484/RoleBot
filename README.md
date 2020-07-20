@@ -65,7 +65,8 @@ This allows the user to see information that would not normally be visible (like
 # Message Creation.
 Here is an example of a message that uses the role bot. 
 ![message](https://cdn.discordapp.com/attachments/707320637026336799/734897516478201916/unknown.png)
-This message works very well because it lets the members know wh
+This message works very well because it lets the members know what to do with the message and it shows the members what roles correspond with what emoji. In this example I have reacted to each message with my discord account then disabled adding reactions in the channel permissions. This allows users to react with the 
+
 ## Example
 Here is a simple set up for how to assign roles to emoji.
 |     Description           |Role                          |Emoji                         |
@@ -75,7 +76,7 @@ Here is a simple set up for how to assign roles to emoji.
 |Add role for CitiesSkylines|`CitiesSkylines`|:CitiesSkylines:|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0NzMzMzMsMTc5MDkwMzI1MCwxNzk2MD
-YyODgyLC0xMDk4NjUyMDI4LDIxMDA4OTI5NzcsLTE2MDIyMjAz
-MDddfQ==
+eyJoaXN0b3J5IjpbLTk2NDY4NDY1OCwxNzkwOTAzMjUwLDE3OT
+YwNjI4ODIsLTEwOTg2NTIwMjgsMjEwMDg5Mjk3NywtMTYwMjIy
+MDMwN119
 -->
