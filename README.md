@@ -49,7 +49,7 @@ This assures the bot has the correct permissions to perform all the tasks requir
 - Open a text editor and paste the token from before in place of `token` on line 41
 `client.run('token')` in `rolebot.py`
 
-## Message Creation
+## Enabling Developer Mode
 Now Make sure Discord developer mode is enabled on your Discord client. Here is how to do it on pc. 
 
 Click *User Settings* in the bottom left 
@@ -60,7 +60,10 @@ Click Appearance under the **APP SETTINGS** tab
 
 Scroll down and locate **Developer Mode** and flip the toggle.
 ![dev mode](https://cdn.discordapp.com/attachments/707320637026336799/734896739605282816/unknown.png)
-This allows to see the 
+This allows the user to see information that would not normally be visible (like user ids and message ids).
+
+# Message Creation.
+
 ## Example
 Here is a simple set up for how to assign roles to emoji.
 |     Description           |Role                          |Emoji                         |
@@ -70,7 +73,7 @@ Here is a simple set up for how to assign roles to emoji.
 |Add role for CitiesSkylines|`CitiesSkylines`|:CitiesSkylines:|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2MzczODMwLDE3OTA5MDMyNTAsMTc5Nj
-A2Mjg4MiwtMTA5ODY1MjAyOCwyMTAwODkyOTc3LC0xNjAyMjIw
-MzA3XX0=
+eyJoaXN0b3J5IjpbLTI1OTUzNjgwMiwxNzkwOTAzMjUwLDE3OT
+YwNjI4ODIsLTEwOTg2NTIwMjgsMjEwMDg5Mjk3NywtMTYwMjIy
+MDMwN119
 -->
