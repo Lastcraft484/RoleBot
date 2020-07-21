@@ -1,5 +1,5 @@
 # RoleBot
-
+This is a simple bot to monitor a message for reactions being added or take
 # Bot creation. 
 First a Discord bot must be created using Discord's  [Developer Portal](https://discord.com/developers/applications).
 
@@ -107,7 +107,7 @@ Here is a simple set up for how to assign roles to emoji.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQ0ODEzOTYsMjk5NDk5NjM1LC02MD
+eyJoaXN0b3J5IjpbLTEyODAzNjI0NjEsMjk5NDk5NjM1LC02MD
 I5MzQ5NTEsMzA5Njg0ODY3LDEyNDAzMjk2MDMsLTMyMDI5NDAy
 MSwxNzkwOTAzMjUwLDE3OTYwNjI4ODIsLTEwOTg2NTIwMjgsMj
 EwMDg5Mjk3NywtMTYwMjIyMDMwN119
