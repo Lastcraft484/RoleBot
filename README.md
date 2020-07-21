@@ -88,7 +88,25 @@ Note this ID somewhere, it is needed in the next step.
 # Adding message ID
 Open rolebot.py in a text editor and locate:
 `if payload.message_id == (messageID):` in the first block on line 8.
-![codebock](https://cdn.discordapp.com/attachments/707320637026336799/734928571142766743/unknown.png)
+```py
+@client.event
+
+async  def  on_raw_reaction_add(payload):
+if payload.message_id == (messageID):
+	print(payload.emoji.name)
+	# Find a role corresponding to the Emoji name.
+	guild_id = payload.guild_id
+	guild = discord.utils.find(lambda  g : g.id == guild_id, client.guilds)
+
+	role = discord.utils.find(lambda  r : r.name == payload.emoji.name, guild.roles)
+
+if role is  not  None:
+	print(role.name + " was found!")
+	print(role.id)
+	member = discord.utils.find(lambda  m : m.id == payload.user_id, guild.members)
+	await member.add_roles(role)
+	print("done")
+```
 
 Here you will replace `messageID` with the ID noted before.  The bot is set up to monitor 2 messages for emoji/role changes. If the bot is only going to monitor 1 message, delete the 2nd block of text( line 23-35)
 
@@ -105,17 +123,13 @@ print(payload.emoji.name)
 
 guild_id = payload.guild_id
 guild = discord.utils.find(lambda  g : g.id == guild_id, client.guilds)
-
 role = discord.utils.find(lambda  r : r.name == payload.emoji.name, guild.roles)
 
   
 
 if role is  not  None:
-
 member = discord.utils.find(lambda  m : m.id == payload.user_id, guild.members)
-
 await member.remove_roles(role)
-
 print("done")
 ```
 
@@ -131,10 +145,10 @@ Here is a simple set up for how to assign roles to emoji.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTE2MzYsMTE0MjgzMTQ1NywtMTE0Mz
-M5NjMzLDEzMjU2MDAzODksMTYzMDk2NTcxMiwtNDAzNzExNjMw
-LDI5OTQ5OTYzNSwtNjAyOTM0OTUxLDMwOTY4NDg2NywxMjQwMz
-I5NjAzLC0zMjAyOTQwMjEsMTc5MDkwMzI1MCwxNzk2MDYyODgy
-LC0xMDk4NjUyMDI4LDIxMDA4OTI5NzcsLTE2MDIyMjAzMDddfQ
-==
+eyJoaXN0b3J5IjpbNzA2OTAwMjA5LDExNDI4MzE0NTcsLTExND
+MzOTYzMywxMzI1NjAwMzg5LDE2MzA5NjU3MTIsLTQwMzcxMTYz
+MCwyOTk0OTk2MzUsLTYwMjkzNDk1MSwzMDk2ODQ4NjcsMTI0MD
+MyOTYwMywtMzIwMjk0MDIxLDE3OTA5MDMyNTAsMTc5NjA2Mjg4
+MiwtMTA5ODY1MjAyOCwyMTAwODkyOTc3LC0xNjAyMjIwMzA3XX
+0=
 -->
