@@ -93,6 +93,7 @@ Open rolebot.py in a text editor and locate:
 Here you will replace `messageID` with the ID noted before.  The bot is set up to monitor 2 messages for emoji/role changes. If the bot is only going to monitor 1 message, delete the 2nd block of text( line 23-35)
 
 - If only using 1 message then delete below:
+
 ![delete](https://cdn.discordapp.com/attachments/707320637026336799/734928834612166696/unknown.png)
 
 
@@ -107,9 +108,9 @@ Here is a simple set up for how to assign roles to emoji.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDMzOTYzMywxMzI1NjAwMzg5LDE2Mz
-A5NjU3MTIsLTQwMzcxMTYzMCwyOTk0OTk2MzUsLTYwMjkzNDk1
-MSwzMDk2ODQ4NjcsMTI0MDMyOTYwMywtMzIwMjk0MDIxLDE3OT
-A5MDMyNTAsMTc5NjA2Mjg4MiwtMTA5ODY1MjAyOCwyMTAwODky
-OTc3LC0xNjAyMjIwMzA3XX0=
+eyJoaXN0b3J5IjpbMTE0MjgzMTQ1NywtMTE0MzM5NjMzLDEzMj
+U2MDAzODksMTYzMDk2NTcxMiwtNDAzNzExNjMwLDI5OTQ5OTYz
+NSwtNjAyOTM0OTUxLDMwOTY4NDg2NywxMjQwMzI5NjAzLC0zMj
+AyOTQwMjEsMTc5MDkwMzI1MCwxNzk2MDYyODgyLC0xMDk4NjUy
+MDI4LDIxMDA4OTI5NzcsLTE2MDIyMjAzMDddfQ==
 -->
