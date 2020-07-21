@@ -94,7 +94,30 @@ Here you will replace `messageID` with the ID noted before.  The bot is set up t
 
 - If only using 1 message then delete below:
 
-![delete](https://cdn.discordapp.com/attachments/707320637026336799/734928834612166696/unknown.png)
+```py
+@client.event
+
+async  def  on_raw_reaction_remove(payload):
+if payload.message_id == (messageID):
+print(payload.emoji.name)
+
+  
+
+guild_id = payload.guild_id
+guild = discord.utils.find(lambda  g : g.id == guild_id, client.guilds)
+
+role = discord.utils.find(lambda  r : r.name == payload.emoji.name, guild.roles)
+
+  
+
+if role is  not  None:
+
+member = discord.utils.find(lambda  m : m.id == payload.user_id, guild.members)
+
+await member.remove_roles(role)
+
+print("done")
+```
 
 
 ## Example Emojis and role set up.
@@ -108,9 +131,10 @@ Here is a simple set up for how to assign roles to emoji.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjgzMTQ1NywtMTE0MzM5NjMzLDEzMj
-U2MDAzODksMTYzMDk2NTcxMiwtNDAzNzExNjMwLDI5OTQ5OTYz
-NSwtNjAyOTM0OTUxLDMwOTY4NDg2NywxMjQwMzI5NjAzLC0zMj
-AyOTQwMjEsMTc5MDkwMzI1MCwxNzk2MDYyODgyLC0xMDk4NjUy
-MDI4LDIxMDA4OTI5NzcsLTE2MDIyMjAzMDddfQ==
+eyJoaXN0b3J5IjpbMTExMTE2MzYsMTE0MjgzMTQ1NywtMTE0Mz
+M5NjMzLDEzMjU2MDAzODksMTYzMDk2NTcxMiwtNDAzNzExNjMw
+LDI5OTQ5OTYzNSwtNjAyOTM0OTUxLDMwOTY4NDg2NywxMjQwMz
+I5NjAzLC0zMjAyOTQwMjEsMTc5MDkwMzI1MCwxNzk2MDYyODgy
+LC0xMDk4NjUyMDI4LDIxMDA4OTI5NzcsLTE2MDIyMjAzMDddfQ
+==
 -->
