@@ -19,7 +19,7 @@ Here is where the application name and icon are changed. **The application name 
 
 ![Add a bot](https://cdn.discordapp.com/attachments/707320637026336799/734871830061645904/unknown.png)
 
-Here you will select **Add Bot**
+Here you will select **Add Bot**.
 
 ![Select Yes](https://cdn.discordapp.com/attachments/707320637026336799/734872232425422919/unknown.png)
 
@@ -27,7 +27,7 @@ Once **Yes, do it!** is selected you will be brought to this page:
 
 ![Bot config](https://cdn.discordapp.com/attachments/707320637026336799/734875049445556335/unknown.png) 
 
-Here is where the bot name and icon are changed. Below the name there is the token. The token is what the code uses to talk to Discord's servers. Click on *Click to Reveal Token* or click on **Copy** . The token is needed later. Next click on the **OAuth2** tab
+Here is where the bot name and icon are changed. Below the name there is the token. The token is what the code uses to talk to Discord's servers. Click on *Click to Reveal Token* or click on **Copy** . The token is needed later. Next click on the **OAuth2** tab.
 
 ![OAuth2 Page](https://cdn.discordapp.com/attachments/707320637026336799/734878141255909397/unknown.png)
 
@@ -52,11 +52,11 @@ This assures the bot has the correct permissions to perform all the tasks requir
 ## Enabling Developer Mode
 Now Make sure Discord developer mode is enabled on your Discord client. Here is how to do it on pc. 
 
-Click *User Settings* in the bottom left 
+Click *User Settings* in the bottom left .
 
 ![usersettings](https://cdn.discordapp.com/attachments/707320637026336799/734882935026483320/unknown.png)
 
-Click Appearance under the **APP SETTINGS** tab 
+Click Appearance under the **APP SETTINGS** tab.
 
 ![apperance](https://cdn.discordapp.com/attachments/707320637026336799/734883384475779142/unknown.png) 
 
@@ -76,7 +76,7 @@ This message works very well because it lets the members know what to do with th
 To allow this turn off **Add Reactions** and **Use External Emojis** in the settings for the channel. 
 
 Once the message is set up. Click the 3 dots in the top right of the message labeled **more**
-and click **Copy ID**
+and click **Copy ID**.
 
 ![copy id](https://cdn.discordapp.com/attachments/707320637026336799/734899515756118056/unknown.png)
 
@@ -95,7 +95,8 @@ Here is a simple set up for how to assign roles to emoji.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5Njg0ODY3LDEyNDAzMjk2MDMsLTMyMD
-I5NDAyMSwxNzkwOTAzMjUwLDE3OTYwNjI4ODIsLTEwOTg2NTIw
-MjgsMjEwMDg5Mjk3NywtMTYwMjIyMDMwN119
+eyJoaXN0b3J5IjpbMTUzMzUzMDk1LDMwOTY4NDg2NywxMjQwMz
+I5NjAzLC0zMjAyOTQwMjEsMTc5MDkwMzI1MCwxNzk2MDYyODgy
+LC0xMDk4NjUyMDI4LDIxMDA4OTI5NzcsLTE2MDIyMjAzMDddfQ
+==
 -->
