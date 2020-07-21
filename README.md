@@ -73,6 +73,7 @@ Here is an example of a message that uses the role bot.
 
 
 This message works very well because it lets the members know what to do with the message and it shows the members what roles correspond with what emoji. In this example I have reacted to each message with my discord account then disabled adding reactions in the channel permissions. This allows users to react with the emojis that I have added but not choose any more to react with.
+
 ![perms](https://cdn.discordapp.com/attachments/707320637026336799/734898350452768840/unknown.png)
 
 To allow this turn off **Add Reactions** and **Use External Emojis** in the settings for the channel. 
@@ -97,8 +98,8 @@ Here is a simple set up for how to assign roles to emoji.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTE2OTEwOSwtNjAyOTM0OTUxLDMwOT
-Y4NDg2NywxMjQwMzI5NjAzLC0zMjAyOTQwMjEsMTc5MDkwMzI1
-MCwxNzk2MDYyODgyLC0xMDk4NjUyMDI4LDIxMDA4OTI5NzcsLT
-E2MDIyMjAzMDddfQ==
+eyJoaXN0b3J5IjpbLTE2NTMzNzc4OTUsLTYwMjkzNDk1MSwzMD
+k2ODQ4NjcsMTI0MDMyOTYwMywtMzIwMjk0MDIxLDE3OTA5MDMy
+NTAsMTc5NjA2Mjg4MiwtMTA5ODY1MjAyOCwyMTAwODkyOTc3LC
+0xNjAyMjIwMzA3XX0=
 -->
