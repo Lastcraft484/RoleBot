@@ -83,9 +83,14 @@ and click **Copy ID**.
 
 ![copy id](https://cdn.discordapp.com/attachments/707320637026336799/734899515756118056/unknown.png)
 
-Note this ID somewhere it is needed in the next step.
+Note this ID somewhere, it is needed in the next step.
 
+# Adding message ID
 Open rolebot.py in a text editor and locate:
+`if payload.message_id == (messageID):` in the first block on line 8.
+
+Here you will replace `messageID` with the i
+
 
 ## Example Emojis and role set up.
 Here is a simple set up for how to assign roles to emoji.
@@ -98,7 +103,7 @@ Here is a simple set up for how to assign roles to emoji.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTMzNzc4OTUsLTYwMjkzNDk1MSwzMD
+eyJoaXN0b3J5IjpbLTEwNDk5MjkxMzksLTYwMjkzNDk1MSwzMD
 k2ODQ4NjcsMTI0MDMyOTYwMywtMzIwMjk0MDIxLDE3OTA5MDMy
 NTAsMTc5NjA2Mjg4MiwtMTA5ODY1MjAyOCwyMTAwODkyOTc3LC
 0xNjAyMjIwMzA3XX0=
