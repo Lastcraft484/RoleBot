@@ -1,5 +1,5 @@
 # RoleBot
-This is a simple bot to monitor messages for reactions being added or taken away and then adds and takes away roles from a member based on if they have reacted to a message or not
+This is a simple bot to monitor messages for reactions being modified and then modifies roles r based on if a member has reacted to a message or not
 # Bot creation. 
 First a Discord bot must be created using Discord's  [Developer Portal](https://discord.com/developers/applications).
 
@@ -107,8 +107,9 @@ Here is a simple set up for how to assign roles to emoji.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDk2NTcxMiwtNDAzNzExNjMwLDI5OT
-Q5OTYzNSwtNjAyOTM0OTUxLDMwOTY4NDg2NywxMjQwMzI5NjAz
-LC0zMjAyOTQwMjEsMTc5MDkwMzI1MCwxNzk2MDYyODgyLC0xMD
-k4NjUyMDI4LDIxMDA4OTI5NzcsLTE2MDIyMjAzMDddfQ==
+eyJoaXN0b3J5IjpbMjExMDY3NzAwMiwxNjMwOTY1NzEyLC00MD
+M3MTE2MzAsMjk5NDk5NjM1LC02MDI5MzQ5NTEsMzA5Njg0ODY3
+LDEyNDAzMjk2MDMsLTMyMDI5NDAyMSwxNzkwOTAzMjUwLDE3OT
+YwNjI4ODIsLTEwOTg2NTIwMjgsMjEwMDg5Mjk3NywtMTYwMjIy
+MDMwN119
 -->
