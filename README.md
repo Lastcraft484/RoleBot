@@ -88,6 +88,7 @@ Note this ID somewhere, it is needed in the next step.
 # Adding message ID
 Open rolebot.py in a text editor and locate:
 `if payload.message_id == (messageID):` in the first block on line 8.
+![codebock](https://cdn.discordapp.com/attachments/707320637026336799/734928571142766743/unknown.png)
 
 Here you will replace `messageID` with the ID noted before.  The bot is set up to monitor 2 messages for emoji/role changes. If the bot is only going to monitor 1 message, delete the 2nd block of text( line 23-35)
 
@@ -103,8 +104,8 @@ Here is a simple set up for how to assign roles to emoji.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5NDk5NjM1LC02MDI5MzQ5NTEsMzA5Nj
-g0ODY3LDEyNDAzMjk2MDMsLTMyMDI5NDAyMSwxNzkwOTAzMjUw
-LDE3OTYwNjI4ODIsLTEwOTg2NTIwMjgsMjEwMDg5Mjk3NywtMT
-YwMjIyMDMwN119
+eyJoaXN0b3J5IjpbOTI4MDE2MDI0LDI5OTQ5OTYzNSwtNjAyOT
+M0OTUxLDMwOTY4NDg2NywxMjQwMzI5NjAzLC0zMjAyOTQwMjEs
+MTc5MDkwMzI1MCwxNzk2MDYyODgyLC0xMDk4NjUyMDI4LDIxMD
+A4OTI5NzcsLTE2MDIyMjAzMDddfQ==
 -->
